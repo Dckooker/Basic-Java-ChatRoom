@@ -1,0 +1,66 @@
+[Devon Kooker: Server/Client Project]
+
+How to compile and run:
+-----------------------
+
+
+---------------------------------------------------------------------------------------------
+pre.) Download and store {Client.java} {Server.java} and {SocketClass.java} together somewhere
+---------------------------------------------------------------------------------------------
+
+
+***(The following instructions require a command line)***
+
+
+(SERVER):
+---------------------------------------------
+1.) Type "cmd" into Windows search.         |
+                                            |
+2.) Right-click Command prompt.             |
+                                            |
+3.) Click Run as administrator.             |
+                                            |
+4.) Type "cd C:\ -The Path to the server".  |
+                                            |
+5.) Press Enter.                            |
+                                            |
+6.) Type "javac Server.java".               |
+                                            |
+7.) Press Enter.                            |
+                                            |
+8.) Type "java Server".                     |
+---------------------------------------------
+
+(CLIENT):
+---------------------------------------------
+1.) Type "cmd" into Windows search.         |
+                                            |
+2.) Right-click Command prompt.             |
+                                            |
+3.) Click Run as administrator.             |
+                                            |
+4.) Type "cd \ -The Path to the client".    |
+                                            |
+5.) Press Enter.                            |
+                                            |
+6.) Type "javac Client.java".               |
+                                            |
+7.) Press Enter.                            |
+                                            |
+8.) Type "java Client".                     |
+---------------------------------------------
+
+
+
+                                                                    **NOTE***
+
+         - These Files can be run inside of any IDE with an output terminal such as Eclipse. However, a package name will need to be added. 
+ 
+                   -Continue to open and run as many clients as the server permits -(as of now the server limit is 1000 clients)
+
+                                -Follow the instructions prompted by the server to enter the chat room. 
+ 
+ 
+ 
+ 
+ 
